@@ -185,7 +185,7 @@ def main():
 
     # 下载文件到本地（默认下载到缓存目录，也可指定local_dir）
     local_file_path = hf_hub_download(
-        repo_id="wonderfuluuuuuuuuuuu/dLLM-ASR",
+        repo_id="匿名",
         filename="epoch_5_step_450000.pt",  # 模型权重文件
         repo_type="model",
         local_dir="./huggingface_files"  # 自定义本地保存目录，不存在会自动创建
