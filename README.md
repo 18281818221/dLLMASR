@@ -5,7 +5,7 @@
 
 
 2. 推理:
-模型权重HuggingFace: wonderfuluuuuuuuuuuu/dLLM-ASR
+模型权重HuggingFace:----(匿名)
 
 3. 
 启动脚本
